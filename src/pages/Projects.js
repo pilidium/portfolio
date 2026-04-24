@@ -7,7 +7,8 @@ function Projects() {
       <header className={styles.header}>
         <h1>Projects</h1>
         <p className={styles.subtitle}>
-          A selection of what I'm building.
+          A selection of what I'm building. These repositories are private, so
+          public links cannot be provided at this time.
         </p>
       </header>
 
