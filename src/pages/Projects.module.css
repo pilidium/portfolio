@@ -88,23 +88,6 @@
   gap: 0.3rem;
 }
 
-.button {
-  margin-top: auto;
-  align-self: flex-start;
-  padding: 0.55rem 1rem;
-  background: var(--accent);
-  color: white;
-  text-decoration: none;
-  border-radius: 10px;
-  font-weight: 600;
-  font-size: 0.9rem;
-  transition: background 160ms ease;
-}
-
-.button:hover {
-  background: var(--accent-hover);
-}
-
 @media (max-width: 640px) {
   .header h1 {
     font-size: 1.6rem;

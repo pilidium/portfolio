@@ -40,7 +40,6 @@ export const projects = [
       "Endpoints for user authentication, portfolio management, stock trading, and real-time price updates.",
       "Live market feeds and a database persisting user transactions and rankings.",
     ],
-    github: "https://github.com/pilidium",
   },
   {
     title: "Terratide Air Temperature Prediction",
@@ -51,6 +50,5 @@ export const projects = [
       "Implemented an Amplifier Air-Transformer predicting hourly 2 km air temperature in the US context.",
       "Deployed an AWS EC2 instance to preprocess datasets from Google Earth Engine and AWS S3.",
     ],
-    github: "https://github.com/pilidium",
   },
 ];

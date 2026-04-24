@@ -7,7 +7,7 @@ function Projects() {
       <header className={styles.header}>
         <h1>Projects</h1>
         <p className={styles.subtitle}>
-          A selection of what I'm building. Each card links to its GitHub repository.
+          A selection of what I'm building.
         </p>
       </header>
 
@@ -32,15 +32,6 @@ function Projects() {
                 <li key={b}>{b}</li>
               ))}
             </ul>
-
-            <a
-              className={styles.button}
-              href={p.github}
-              target="_blank"
-              rel="noreferrer"
-            >
-              View on GitHub →
-            </a>
           </article>
         ))}
       </div>
